@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "chrono": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
